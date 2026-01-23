@@ -1,4 +1,8 @@
 # IOT_Group 6
+### Team Members: 
+- PONLORK Ponita
+- LY Soryapheak
+- SEAN Sophal Theany
 ## 1. Overview
 In this lab, you will build a tiny IoT monitoring node with an ESP32, DHT22
 temperature/humidity sensor, and a relay. The ESP32 sends Telegram alerts when the
