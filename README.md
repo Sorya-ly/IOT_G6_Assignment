@@ -35,7 +35,7 @@ WIFI_PASSWORD = "rbtWIFI@2025"
 2. Create a new bot using /newbot
 3. Copy the Bot Token
 4. Paste it into the code:
-    BOT_TOKEN = "231699710:AAF01UR3dkMPL7d0NuW7ou9Z2jonBTkeCeM"
+    BOT_TOKEN = "8231699710:AAF01UR3dkMPL7d0NuW7ou9Z2jonBTkeCeM"
 
 ### 4.3 Telegram chat ID
 1. Add the bot to your Telegram group
@@ -47,4 +47,13 @@ WIFI_PASSWORD = "rbtWIFI@2025"
 (to control and send command as a team) 
 1. Add the created Bot and IDBot to the group
 
+## Wiring photo
+![Wiring Photo](wiringphoto.png)
 
+## Flowchart of loop/state
+Figma Link: https://www.figma.com/board/S3RnOzh0yR1G12ljfvSsmF/Untitled?node-id=0-1&t=jhkFKWTbEELplBLc-1
+
+The system flowchart shows the logical flow of the ESP32 program. After initialization, the ESP32 continuously checks Wi-Fi connectivity, reads temperature and humidity from the DHT sensor, processes Telegram bot commands, and controls the relay based on temperature conditions. Robustness mechanisms ensure the system continues operating during Wi-Fi disconnections, Telegram HTTP errors, and sensor read failures.
+
+## Short demo video
+Link: https://youtu.be/jLcnGuaP9m8
