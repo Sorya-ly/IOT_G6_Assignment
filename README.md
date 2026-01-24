@@ -52,7 +52,7 @@ WIFI_PASSWORD = "rbtWIFI@2025"
 1. Add the created Bot and IDBot to the group
 
 ## Wiring photo
-![Wiring Photo](wiringphoto.png)
+![Wiring Photo](WiringPhoto.HEIC)
 
 ## Flowchart of loop/state
 Figma Link: https://www.figma.com/board/S3RnOzh0yR1G12ljfvSsmF/Untitled?node-id=0-1&t=jhkFKWTbEELplBLc-1
