@@ -49,7 +49,7 @@ WIFI_PASSWORD = "rbtWIFI@2025"
 
 ### 4.4 Creat an telegram group 
 (to control and send command as a team) 
-1. Add the created Bot and IDBot to the group
+Add the created Bot and IDBot to the group
 
 ## Wiring photo
 ![Wiring Photo](WiringPhoto.HEIC)
