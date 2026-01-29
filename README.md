@@ -65,6 +65,7 @@ The system flowchart shows the logical flow of the ESP32 program. After initiali
 Link: https://youtu.be/jLcnGuaP9m8
 
 # Lab 2
+IoT Webserver with LED, Sensors, and LCD Control
 ## 1. Overview
 In this lab, students will design an ESP32-based IoT system with MicroPython that integrates a
 web interface and an LCD display. The system will allow users to control an LED, read sensors,
