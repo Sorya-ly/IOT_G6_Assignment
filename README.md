@@ -92,3 +92,6 @@ By the end of this lab, students will be able to:
 ## 4. Wiring 
 <img width="843" height="412" alt="image" src="https://github.com/user-attachments/assets/e0e6f7cd-a0dc-4223-9343-2ad5b061bd9e" />
 
+## Short demo video
+Link: https://youtu.be/yYCM0TSFDB8?si=hEB5IBhJ2DM1MjQh
+
