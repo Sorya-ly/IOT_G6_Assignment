@@ -54,7 +54,7 @@ WIFI_PASSWORD = "rbtWIFI@2025"
 Add the created Bot and IDBot to the group
 
 ## Wiring photo
-Google drive: "https://drive.google.com/drive/u/0/folders/1OYMf82PUDLKc6GkZmEKu-OAVJpVg16la"
+Google drive: https://drive.google.com/drive/u/0/folders/1OYMf82PUDLKc6GkZmEKu-OAVJpVg16la
 
 ## Flowchart of loop/state
 Figma Link: https://www.figma.com/board/S3RnOzh0yR1G12ljfvSsmF/Untitled?node-id=0-1&t=jhkFKWTbEELplBLc-1
@@ -90,8 +90,7 @@ By the end of this lab, students will be able to:
 • Wi-Fi access
 
 ## 4. Wiring 
-<img width="843" height="412" alt="image" src="https://drive.google.com/drive/u/0/folders/1OYMf82PUDLKc6GkZmEKu-OAVJpVg16la" />
-
+![Lab 2 Wiring](https://drive.google.com/uc?export=view&id=FILE_ID)
 
 ## Short demo video
 Link: https://youtu.be/yYCM0TSFDB8?si=hEB5IBhJ2DM1MjQh
