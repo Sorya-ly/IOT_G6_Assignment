@@ -54,7 +54,7 @@ WIFI_PASSWORD = "rbtWIFI@2025"
 Add the created Bot and IDBot to the group
 
 ## 4. Wiring
-![Lab 1 Wiring](Lab1_WiringPhoto.jpg)
+![Lab 1 Wiring](Lab1/Lap1_wiringPhoto.png)
 
 ## Flowchart of loop/state
 Figma Link: https://www.figma.com/board/S3RnOzh0yR1G12ljfvSsmF/Untitled?node-id=0-1&t=jhkFKWTbEELplBLc-1
@@ -90,7 +90,7 @@ By the end of this lab, students will be able to:
 • Wi-Fi access
 
 ## 4. Wiring
-![Lab 2 Wiring](https://github.com/Sorya-ly/IOT_G6_Assignment/blob/cbe55b9f5a33d85d7c5b19b5fc9feffac158a838/Lab2_WiringPhoto.jpg)
+![Lab 2 Wiring](Lab2/Lap2_wiringPhoto.png)
 
 
 ## Short demo video
