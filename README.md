@@ -90,7 +90,7 @@ By the end of this lab, students will be able to:
 • Wi-Fi access
 
 ## 4. Wiring 
-![Lab 2 Wiring](https://drive.google.com/file/d/1ilfhWIgneBAxlYyxaHH1fXPINsIiQ0L9/view?usp=sharing)
+![Lab 2 Wiring](https://drive.google.com/file/d/1ilfhWIgneBAxlYyxaHH1fXPINsIiQ0L9/view)
 
 ## Short demo video
 Link: https://youtu.be/yYCM0TSFDB8?si=hEB5IBhJ2DM1MjQh
