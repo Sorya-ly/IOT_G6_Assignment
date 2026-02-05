@@ -90,7 +90,7 @@ By the end of this lab, students will be able to:
 • Wi-Fi access
 
 ## 4. Wiring
-![Lab 2 Wiring](Lab2_WiringPhoto.jpg)
+![Lab 2 Wiring](https://github.com/Sorya-ly/IOT_G6_Assignment/blob/cbe55b9f5a33d85d7c5b19b5fc9feffac158a838/Lab2_WiringPhoto.jpg)
 
 
 ## Short demo video
