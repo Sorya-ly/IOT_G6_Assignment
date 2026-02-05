@@ -53,8 +53,8 @@ WIFI_PASSWORD = "rbtWIFI@2025"
 (to control and send command as a team) 
 Add the created Bot and IDBot to the group
 
-## Wiring photo
-Google drive: https://drive.google.com/drive/u/0/folders/1OYMf82PUDLKc6GkZmEKu-OAVJpVg16la
+## 4. Wiring
+![Lab 1 Wiring](Lab1_WiringPhoto.jpg)
 
 ## Flowchart of loop/state
 Figma Link: https://www.figma.com/board/S3RnOzh0yR1G12ljfvSsmF/Untitled?node-id=0-1&t=jhkFKWTbEELplBLc-1
@@ -89,8 +89,9 @@ By the end of this lab, students will be able to:
 • USB cable + laptop with Thonny
 • Wi-Fi access
 
-## 4. Wiring 
-![Lab 2 Wiring](https://drive.google.com/uc?export=view&id=1ilfhWIgneBAxlYyxaHH1fXPINsIiQ0L9)
+## 4. Wiring
+![Lab 2 Wiring](Lab2_WiringPhoto.jpg)
+
 
 ## Short demo video
 Link: https://youtu.be/yYCM0TSFDB8?si=hEB5IBhJ2DM1MjQh
