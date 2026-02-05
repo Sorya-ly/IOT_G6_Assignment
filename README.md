@@ -54,7 +54,7 @@ WIFI_PASSWORD = "rbtWIFI@2025"
 Add the created Bot and IDBot to the group
 
 ## Wiring photo
-![Wiring Photo](Lab1/Lab1_WiringPhoto.HEIC)
+<img width="843" height="412" alt="image" src="https://drive.google.com/drive/u/0/folders/1OYMf82PUDLKc6GkZmEKu-OAVJpVg16la" />
 
 ## Flowchart of loop/state
 Figma Link: https://www.figma.com/board/S3RnOzh0yR1G12ljfvSsmF/Untitled?node-id=0-1&t=jhkFKWTbEELplBLc-1
@@ -90,9 +90,8 @@ By the end of this lab, students will be able to:
 • Wi-Fi access
 
 ## 4. Wiring 
-![Wiring Photo](Lab2/Lab2_WiringPhoto.jpg)
-<img width="843" height="412" alt="image" src="https://github.com/user-attachments/assets/e0e6f7cd-a0dc-4223-9343-2ad5b061bd9e" />
-![telegram-cloud-document-5-6052977880760065075](https://github.com/user-attachments/assets/28e830f3-fcaf-498e-bae1-3a010dad48c6)
+<img width="843" height="412" alt="image" src="https://drive.google.com/drive/u/0/folders/1OYMf82PUDLKc6GkZmEKu-OAVJpVg16la" />
+
 
 ## Short demo video
 Link: https://youtu.be/yYCM0TSFDB8?si=hEB5IBhJ2DM1MjQh
