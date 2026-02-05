@@ -91,6 +91,8 @@ By the end of this lab, students will be able to:
 
 ## 4. Wiring 
 ![Wiring Photo](Lab2/Lab2_WiringPhoto.jpg)
+<img width="843" height="412" alt="image" src="https://github.com/user-attachments/assets/e0e6f7cd-a0dc-4223-9343-2ad5b061bd9e" />
+![telegram-cloud-document-5-6052977880760065075](https://github.com/user-attachments/assets/28e830f3-fcaf-498e-bae1-3a010dad48c6)
 
 ## Short demo video
 Link: https://youtu.be/yYCM0TSFDB8?si=hEB5IBhJ2DM1MjQh
