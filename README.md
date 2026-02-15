@@ -114,6 +114,8 @@ display, reinforcing event-driven and IoT system design concepts.
 • Display system status and numerical data using a TM1637 7-segment display.
 • Document system wiring, logic flow, and IoT behavior clearly.
 ## 3. Equipment
+![Uploading image.png…]()
+
 ## 4. System Description
 The IR sensor detects the presence of an object in front of the system. When an object is detected,
 the ESP32 processes the signal and automatically rotates the servo motor to simulate opening a
@@ -144,5 +146,7 @@ All submitted work must be original. Plagiarism or code sharing is strictly proh
 • Add a Blynk switch to enable/disable automatic IR mode.
 • When manual mode is active, IR sensor is ignored.
 • Evidence: Demonstration video of override behavior.
+## 6. Short demo video
+Link: https://youtu.be/YFpb0ajkO_I
 
 
