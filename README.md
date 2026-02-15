@@ -146,4 +146,3 @@ All submitted work must be original. Plagiarism or code sharing is strictly proh
 • Evidence: Demonstration video of override behavior.
 
 
-
