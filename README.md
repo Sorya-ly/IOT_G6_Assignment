@@ -114,7 +114,6 @@ display, reinforcing event-driven and IoT system design concepts.
 • Display system status and numerical data using a TM1637 7-segment display.
 • Document system wiring, logic flow, and IoT behavior clearly.
 ## 3. Equipment
-![Uploading image.png…]()
 
 ## 4. System Description
 The IR sensor detects the presence of an object in front of the system. When an object is detected,
