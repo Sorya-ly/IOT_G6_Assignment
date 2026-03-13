@@ -59,19 +59,19 @@ Implemented Commands
 ### 5.2 Web Server Dashboard
 A lightweight HTTP web server runs directly on the ESP32, accessible via the local Wi-Fi network at the device's IP address. The server is implemented using MicroPython's usocket library and serves a single-page HTML/CSS/JavaScript dashboard. 
 #### Dashboard Features
-•	Live slot availability display with color-coded indicator (green = available, red = full).
-•	Real-time temperature and humidity readings from DHT11.
-•	Gate status indicator (OPEN / CLOSED) with animated visual.
-•	Manual gate open and close buttons with instant feedback.
-•	Auto-refresh every 5 seconds using JavaScript fetch() API calls.
+- Live slot availability display with color-coded indicator (green = available, red = full).
+- Real-time temperature and humidity readings from DHT11.
+- Gate status indicator (OPEN / CLOSED) with animated visual.
+- Manual gate open and close buttons with instant feedback.
+- Auto-refresh every 5 seconds using JavaScript fetch() API calls.
 
 ### 5.3 Blynk App Dashboard
 The Blynk platform provides a customizable mobile dashboard accessible via the Blynk iOS and Android apps. The ESP32 connects to the Blynk cloud server using the Blynk authentication token and communicates via the Blynk protocol over TCP.
 
 #### Blynk Widgets Configured
-•	V1 — Value display widget: Available parking slot counter.
-•	V2 — Gauge/Value widget: Live temperature reading from DHT11.
-•	V4 — Button widget: Manual servo gate open/close toggle.
+- V1 — Value display widget: Available parking slot counter.
+- V2 — Gauge/Value widget: Live temperature reading from DHT11.
+- V4 — Button widget: Manual servo gate open/close toggle.
 
 ## 6. Working Process Explanation
 
