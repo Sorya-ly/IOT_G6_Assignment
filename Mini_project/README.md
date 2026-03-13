@@ -36,7 +36,7 @@ This section describes all hardware components used in the Smart IoT Parking Man
 
 The Smart IoT Parking Management System follows a layered IoT architecture comprising four main tiers: the Sensing Layer, the Processing Layer, the Communication Layer, and the Application Layer.
 
-<img width="629" height="224" alt="image" src="https://github.com/user-attachments/assets/195ed9e9-a071-4220-89cc-ccaed84167e7" />
+<img width="639" height="236" alt="image" src="https://github.com/user-attachments/assets/02a38ca9-ddac-4e6a-b8ea-b03b6ca11e6c" />
 
 
 ## 4. Software Architecture
