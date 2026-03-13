@@ -29,39 +29,21 @@ The system integrates physical sensors and actuators with three distinct IoT pla
 
 This section describes all hardware components used in the Smart IoT Parking Management System, including their specifications, roles, and connection interfaces.
 
-Component	Role in System
-ESP32	Main microcontroller, handles all sensor reads, commends, IoT communication, and display updates concurrently using cooperative multitasking. 
-Ultrasonic Sensor	Vehicle entry detection at the parking entry point. 
-A threshold distance (typically 20–30 cm) is configured to detect when a vehicle is present at the gate.
-The ESP32 triggers the sensor and calculates distance using the formula: Distance = (Time x Speed of Sound) / 2.
-IR Sensors (x3)	Parking slot occupancy. Each IR sensor outputs a LOW signal when an object (vehicle) is detected and HIGH when the slot is empty. The ESP32 polls these sensors continuously to maintain an accurate count of occupied versus available slots.
-Servo Motor	Gate barrier control. It is controlled via PWM signals from the ESP32. A 0° position represents the closed gate, while a 90° position lifts the barrier to allow entry. The gate automatically closes after a configurable delay once a vehicle has passed through.
+<img width="679" height="536" alt="image" src="https://github.com/user-attachments/assets/12fdfc15-ba10-44d7-80e0-ea80814a7e43" />
 
-
-DHT11	Environmental monitoring, ambient temperature and relative humidity within the parking structure. 
-TM1637 Display	Available slot counter, It is driven via a two-wire CLK/DIO interface and updates in real time whenever a slot state changes.
-LCD I2C (16x2)	System status display, It shows scrolling or static information including the gate status, (OPEN/CLOSED), available slot count, temperature readings, and system alerts. 
 
 ## 3. System Architecture
 
 The Smart IoT Parking Management System follows a layered IoT architecture comprising four main tiers: the Sensing Layer, the Processing Layer, the Communication Layer, and the Application Layer.
 
-APPLICATION LAYER
-Telegram Bot  |  Web Server Dashboard  |  Blynk App
-↕  Wi-Fi / HTTP / MQTT
-PROCESSING LAYER
-ESP32 (MicroPython) — Decision Logic, State Management, Platform Handler
-↕  GPIO / PWM / I2C / UART
-SENSING & ACTUATION LAYER
-HC-SR04  |  IR Sensors  |  DHT11  |  Servo  |  Relay  |  TM1637  |  LCD I2C
-
-
+<img width="629" height="224" alt="image" src="https://github.com/user-attachments/assets/195ed9e9-a071-4220-89cc-ccaed84167e7" />
 
 
 ## 4. Software Architecture
 
-Process Flow Diagram
-<img width="516" height="147" alt="image" src="https://github.com/user-attachments/assets/ba5bbab1-5ee7-4ea9-ae32-bbb22a6cd7c7" />
+##### Process Flow Diagram
+<img width="1306" height="366" alt="image" src="https://github.com/user-attachments/assets/e4da2094-a09f-44ae-9aab-818ffd0b58a7" />
+
 
 ## 5. IoT Integration
 
