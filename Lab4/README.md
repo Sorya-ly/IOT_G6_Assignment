@@ -15,3 +15,4 @@ will be stored in InfluxDB and visualized in Grafana.
 - Design dashboards using Grafana.
 
 ## 3. Equipment
+
