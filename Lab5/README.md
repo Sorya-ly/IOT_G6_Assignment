@@ -12,22 +12,26 @@ Task 1 - RGB Reading
 - Read RGB values from TCS34725.
 - Print values to Serial Monitor.
 Evidence: Screenshot showing RGB values.
+
 Task 2 - Color Classification
 Classification Rules:
 - R > G and R > B → RED
 - G > R and G > B → GREEN
 - B > R and B > G → BLUE
 Evidence: Demonstration of correct color detection.
+
 Task 3 - NeoPixel Control
 - RED → NeoPixel shows Red
 - GREEN → NeoPixel shows Green
 - BLUE → NeoPixel shows Blue
 Evidence: NeoPixel color change demonstration.
+
 Task 4 - Motor Control (PWM)
 - RED → PWM = 700
 - GREEN → PWM = 500
 - BLUE → PWM = 300
 Evidence: Motor speed variation.
+
 Task 5 - MIT App Integration
 App Requirements:
 - Display detected color (Label).
