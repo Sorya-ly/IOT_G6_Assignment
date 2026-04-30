@@ -1,0 +1,6 @@
+names:
+- Person
+nc: 1
+test: /kaggle/working/test/images
+train: /kaggle/working/train/images
+val: /kaggle/working/val/images
