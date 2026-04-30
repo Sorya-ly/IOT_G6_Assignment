@@ -161,8 +161,8 @@ lcd.move_to(1, 0)
 lcd.write("Connecting WiFi.")
 
 # --- WiFi ---
-ssid     = "Robotic WIFI"
-password = "rbtWIFI@2025"
+ssid     = "YOUR_WIFI"
+password = "YOUR_WIFI"
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
@@ -173,8 +173,8 @@ while not wlan.isconnected():
 print("WiFi connected:", wlan.ifconfig())
 
 # --- Telegram ---
-BOT_TOKEN = "8231699710:AAF01UR3dkMPL7d0NuW7ou9Z2jonBTkeCeM"
-CHAT_ID   = "-5095049406"         
+BOT_TOKEN = "YOUR_TOKEN"
+CHAT_ID   = "YOUR_ID"         
 TG_URL    = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 last_update_id = 0  # tracks Telegram messages
