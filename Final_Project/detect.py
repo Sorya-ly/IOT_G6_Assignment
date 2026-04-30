@@ -7,7 +7,7 @@ import urllib.request
 import numpy as np
 import threading
 
-ESP32_IP    = "10.30.0.199"
+ESP32_IP    = "YOUR_IP"
 ESP32_STREAM = f"http://{ESP32_IP}:81/stream"
 ESP32_CAPTURE = f"http://{ESP32_IP}/capture"
 
